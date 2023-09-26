@@ -1,8 +1,8 @@
 ###########################################
-#
-# Welcome to the glorious code for this uhhh idk productivity code
-# We are just going to be typing and revising and doing whatever we want on this freaking thing and see what happens
-#
+"""
+Welcome to the glorious code for this uhhh idk productivity code
+We are just going to be typing and revising and doing whatever we want on this freaking thing and see what happens
+"""
 ###########################################
 
 # Dictionaries
